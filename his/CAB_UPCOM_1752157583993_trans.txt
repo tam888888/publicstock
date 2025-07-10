@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,30,0,0,12229,0,"2024-12-30T00:00:00",10600,5.8,6.4,6.8,6.8,5.5,6.4,0,0,0,0,0,19,0,0,12429,"CAB",61960000,10600
+1,24,0,0,9901,0,"2024-12-27T00:00:00",5900,6.4,6.6,6.8,7,6,7,0,0,0,0,0,16,0,0,8300,"CAB",37820000,5900
+1,17,0,0,4915,0,"2024-12-26T00:00:00",3900,6.6,6.7,6.7,7,6.5,7,0,0,0,0,0,10,0,0,5100,"CAB",25700000,3900
+1,16,0,0,3602,0,"2024-12-25T00:00:00",1000,6.7,6.1,6.9,6.9,6,6,0,0,0,0,0,9,0,0,2901,"CAB",6720000,1000
+1,5,0,0,1400,0,"2024-12-24T00:00:00",300,6.1,6.5,6.1,6.1,6.1,6.1,0,0,0,0,0,6,0,0,1900,"CAB",1830000,300

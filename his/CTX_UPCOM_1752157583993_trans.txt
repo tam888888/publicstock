@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,119,0,0,160114,38651166,"2025-07-10T00:00:00",93700,15.4,15.4,15.5,16,15.1,15.4,0,0,0,0,0,83,0,0,294774,"CTX",1447310000,93700
+1,131,0,0,221744,38651166,"2025-07-09T00:00:00",99500,15.4,15.5,15.6,15.9,15.1,15.5,0,0,0,0,0,80,0,0,232695,"CTX",1532420000,99500
+1,84,0,0,118011,38650266,"2025-07-08T00:00:00",41000,15.5,15.5,15.8,15.9,15.2,15.9,0,0,0,0,0,82,0,0,257445,"CTX",636070000,41000
+1,115,0,0,144151,38650266,"2025-07-07T00:00:00",99400,15.5,15.4,15.5,15.8,15.1,15.5,0,0,0,0,0,78,0,0,243103,"CTX",1538080000,99400
+1,116,0,0,156918,38650266,"2025-07-04T00:00:00",56900,15.4,15.5,15.5,15.8,15.1,15.8,0,0,0,0,0,88,900,13889736.379613357,221529,"CTX",878140000,56900

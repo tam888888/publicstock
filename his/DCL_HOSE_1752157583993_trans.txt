@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,500,0,0,618248,-786163,"2025-07-10T00:00:00",409700,22.93260922626312,23,22.9,23.1,22.85,23.05,0,0,0,0,0,259,0,0,872811,"DCL",9395490000,409700
+1,327,0,0,661128,-786163,"2025-07-09T00:00:00",349400,23.046436748712075,23,23,23.15,22.95,23.15,0,0,0,0,0,279,0,0,825910,"DCL",8052425000,349400
+1,380,0,0,751184,-786163,"2025-07-08T00:00:00",427300,22.987081675637725,22.95,23,23.1,22.85,22.95,0,0,0,0,0,300,0,0,782573,"DCL",9822380000,427300
+1,392,0,0,457737,-786163,"2025-07-07T00:00:00",221300,22.984116583822868,23,22.95,23.15,22.9,23.1,0,0,0,0,0,284,0,0,701393,"DCL",5086385000,221300
+1,336,0,0,579507,-786163,"2025-07-04T00:00:00",274600,23.02760378732702,23,23,23.2,22.9,23.15,0,0,0,0,0,221,0,0,659464,"DCL",6323380000,274600

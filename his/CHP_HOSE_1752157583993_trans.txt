@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,60,0,0,38346,-5554977,"2025-07-10T00:00:00",15700,35.22611464968153,35.2,35.2,35.35,35.15,35.2,0,0,0,0,0,61,0,0,95193,"CHP",553050000,15700
+1,64,0,0,46524,-5554977,"2025-07-09T00:00:00",6000,35.19083333333334,35.2,35.2,35.2,35.15,35.2,0,0,0,0,0,53,0,0,116224,"CHP",211145000,6000
+1,55,0,0,51884,-5554977,"2025-07-08T00:00:00",17100,35.11520467836257,35.1,35.2,35.3,35,35.2,0,0,0,0,0,51,0,0,104611,"CHP",600470000,17100
+1,67,0,0,57095,-5554977,"2025-07-07T00:00:00",27700,35.07039711191336,34.9,35.1,35.2,35,35,0,0,0,0,0,67,0,0,68526,"CHP",971450000,27700
+1,39,0,0,36452,-5554977,"2025-07-04T00:00:00",6900,34.710144927536234,34.7,34.9,34.9,34.7,34.7,0,0,0,0,0,50,0,0,49404,"CHP",239500000,6900

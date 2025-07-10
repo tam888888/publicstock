@@ -1,0 +1,17 @@
+{
+  "name": "publicstock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "log4js": "^6.9.1",
+    "node-fetch": "^3.3.2"
+  }
+}

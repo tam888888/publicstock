@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,65,0,0,59716,24493564,"2025-07-10T00:00:00",35400,12.013418079096045,12,12,12.1,11.95,12,0,0,0,0,0,79,0,0,144942,"BTP",425275000,35400
+1,78,0,0,47598,24489164,"2025-07-09T00:00:00",18400,11.960326086956522,12,12,12,11.95,11.95,0,0,0,0,0,65,0,0,91714,"BTP",220070000,18400
+1,54,0,0,74808,24489164,"2025-07-08T00:00:00",25600,11.973046875,12,12,12.05,11.95,12,0,0,0,0,0,74,0,0,112413,"BTP",306510000,25600
+1,52,100,1194060.773480663,47629,24486964,"2025-07-07T00:00:00",18100,11.94060773480663,11.95,12,12,11.9,11.9,0,0,0,0,0,60,4500,53732734.80662984,75562,"BTP",216125000,18100
+1,51,0,0,23298,24487064,"2025-07-04T00:00:00",5200,11.915384615384616,11.95,11.95,11.95,11.9,11.9,0,0,0,0,0,49,0,0,68514,"BTP",61960000,5200

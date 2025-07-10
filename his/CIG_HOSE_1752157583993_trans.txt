@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,183,0,0,328070,-11413,"2025-07-10T00:00:00",213000,8.79556338028169,8.61,8.73,8.9,8.54,8.6,0,0,0,0,0,264,0,0,655055,"CIG",1873455000,213000
+1,82,0,0,203959,-11413,"2025-07-09T00:00:00",135000,8.688392592592592,8.65,8.61,8.8,8.61,8.65,0,0,0,0,0,118,0,0,428080,"CIG",1172933000,135000
+1,100,0,0,245281,-11413,"2025-07-08T00:00:00",151200,8.668339947089947,8.61,8.65,8.8,8.61,8.61,0,0,0,0,0,159,0,0,456497,"CIG",1310653000,151200
+1,128,0,0,238617,-11413,"2025-07-07T00:00:00",137700,8.603776325344953,8.6,8.61,8.68,8.42,8.42,0,0,0,0,0,127,0,0,444200,"CIG",1184740000,137700
+1,98,0,0,230982,-11413,"2025-07-04T00:00:00",133500,8.575303370786516,8.6,8.6,8.7,8.42,8.42,0,0,0,0,0,132,0,0,410564,"CIG",1144803000,133500

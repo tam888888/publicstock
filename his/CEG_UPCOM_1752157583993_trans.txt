@@ -1,0 +1,6 @@
+"adjRatio","buyCount","buyForeignQuantity","buyForeignValue","buyQuantity","currentForeignRoom","date","dealVolume","priceAverage","priceBasic","priceClose","priceHigh","priceLow","priceOpen","propTradingNetDealValue","propTradingNetPTValue","propTradingNetValue","putthroughValue","putthroughVolume","sellCount","sellForeignQuantity","sellForeignValue","sellQuantity","symbol","totalValue","totalVolume"
+1,0,0,0,0,1862000,"2025-03-19T00:00:00",0,13.2,13.2,13.2,13.2,13.2,13.2,0,0,0,0,0,0,0,0,0,"CEG",0,0
+1,0,0,0,0,1862000,"2025-03-18T00:00:00",0,13.2,13.2,13.2,13.2,13.2,13.2,0,0,0,0,0,0,0,0,0,"CEG",0,0
+1,0,0,0,0,1862000,"2025-03-17T00:00:00",0,13.2,13.2,13.2,13.2,13.2,13.2,0,0,0,0,0,0,0,0,0,"CEG",0,0
+1,0,0,0,0,1862000,"2025-03-14T00:00:00",0,13.2,13.2,13.2,13.2,13.2,13.2,0,0,0,0,0,2,0,0,5100,"CEG",0,0
+1,0,0,0,0,1862000,"2025-03-13T00:00:00",0,13.2,13.2,13.2,13.2,13.2,13.2,0,0,0,0,0,0,0,0,0,"CEG",0,0
